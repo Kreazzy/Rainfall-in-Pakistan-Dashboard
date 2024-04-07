@@ -1,6 +1,6 @@
 ## Unveiling Pakistan's Rainfall Patterns: A Work in Progress (Rainfall in Pakistan)
 
-**{image}**
+![image](https://github.com/Kreazzy/Rainfall-in-Pakistan-Dashboard/blob/Kreazzy/rainfall%20dashboard%20pak.jpg)
 
 **Intrigued by the rainfall patterns across Pakistan?** This evolving Power BI project delves into historical data (1990-2016) to uncover insights into precipitation trends. We're actively working to expand the data scope and functionalities.
 
